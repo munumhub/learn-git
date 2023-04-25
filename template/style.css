@@ -1,6 +1,15 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
-}
+    div{
+        width: 300px;
+        height: 600px;
+        border: 3px solid;
+        color: #c20000;
+        margin: 2;
+        padding: 1;
+        box-sizing: border-box;
+        background-color: aqua;
+        
+    }
+    @font-face {
+        font-family: kanit;
+        src: url(../font/Kanit-regular.woff);
+    }
